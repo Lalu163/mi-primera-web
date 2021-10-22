@@ -1,0 +1,11 @@
+body{
+    display:flex;
+    justify-content: center;
+}
+.main{
+    height: 100vh;
+    width:500px;
+    margin:center;
+    text-align: center;
+    background-color: blueviolet;
+}
